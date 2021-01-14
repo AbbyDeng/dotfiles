@@ -10,7 +10,7 @@ Terminal and shell: [iTerm2](https://iterm2.com/) + Zsh + [Oh My Zsh](https://oh
 
 ## 2. Command Line / Zsh Tools
 
-Homebrew, ofc [Homebrew](https://brew.sh/)
+[Homebrew](https://brew.sh/), ofc
 
 [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
