@@ -4,11 +4,13 @@ Terminal and Shell: [iTerm2](https://iterm2.com/) + Zsh + [Oh My Zsh](https://oh
 
 ## 1. macOS
 
-### 1.1 Softwares
+### 1.1 Softwares / Tools
 
 [CheatSheet - Know Your Short Cuts](https://mediaatelier.com/CheatSheet/)
 
 [SizeUp - The Missing Window Manager](https://www.irradiatedsoftware.com/sizeup/)
+
+[macprefs: Backup and Restore your Mac System and App Preferences](https://github.com/clintmod/macprefs)
 
 ### 1.2 Settings
 
