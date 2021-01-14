@@ -1,6 +1,6 @@
 # Tools & Settings I'm Using
 
-Terminal and shell: [iTerm2](https://iterm2.com/) + Zsh + [Oh My Zsh](https://ohmyz.sh/)
+Terminal and Shell: [iTerm2](https://iterm2.com/) + Zsh + [Oh My Zsh](https://ohmyz.sh/)
 
 ## 1. macOS
 
