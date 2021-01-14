@@ -2,10 +2,13 @@
 
 Terminal and shell: [iTerm2](https://iterm2.com/) + Zsh + [Oh My Zsh](https://ohmyz.sh/)
 
-[How to manage your dotfiles with git | by Flavio Wuensche | Touts | Medium](https://medium.com/toutsbrasil/how-to-manage-your-dotfiles-with-git-f7aeed8adf8b)
+## 1. macOS
 
+[CheatSheet - Know Your Short Cuts](https://mediaatelier.com/CheatSheet/)
 
-## 1. Command Line / Zsh Tools
+[SizeUp - The Missing Window Manager](https://www.irradiatedsoftware.com/sizeup/)
+
+## 2. Command Line / Zsh Tools
 
 [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
