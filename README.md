@@ -10,8 +10,8 @@ Terminal and shell: [iTerm2](https://iterm2.com/) + Zsh + [Oh My Zsh](https://oh
 
 ## 2. Command Line / Zsh Tools
 
-[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+Homebrew, ofc [Homebrew](https://brew.sh/)
 
-[Adding Git Completion to Zsh | Medium](https://oliverspryn.medium.com/adding-git-completion-to-zsh-60f3b0e7ffbc)
+[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
 [silver searcher](https://github.com/ggreer/the_silver_searcher)
