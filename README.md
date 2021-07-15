@@ -23,6 +23,7 @@ Terminal and Shell: [iTerm2](https://iterm2.com/) + Zsh + [Oh My Zsh](https://oh
 [silver searcher](https://github.com/ggreer/the_silver_searcher)
 
 subl
+
 [Open Sublime Text from Terminal in macOS - Stack Overflow](https://stackoverflow.com/questions/16199581/open-sublime-text-from-terminal-in-macos)
 ```
 ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
