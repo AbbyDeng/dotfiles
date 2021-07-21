@@ -16,6 +16,12 @@ Terminal and Shell: [iTerm2](https://iterm2.com/) + Zsh + [Oh My Zsh](https://oh
 
 ## 2. Command Line / Zsh Tools
 
+ls: [Configuring LS_COLORS](http://www.bigsoft.co.uk/blog/2008/04/11/configuring-ls_colors)
+```
+alias ls="ls --classify --tabsize=0 --literal --color=auto --show-control-chars --human-readable"
+export LS_COLORS="no=00:fi=00:di=01;36:ln=36:pi=33:so=01;35:bd=01;33:cd=01;33:ex=01;31"
+```
+
 [Homebrew](https://brew.sh/), ofc
 
 [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
