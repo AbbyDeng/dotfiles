@@ -21,6 +21,8 @@ ls: [Configuring LS_COLORS](http://www.bigsoft.co.uk/blog/2008/04/11/configuring
 alias ls="ls --classify --tabsize=0 --literal --color=auto --show-control-chars --human-readable"
 export LS_COLORS="no=00:fi=00:di=01;36:ln=36:pi=33:so=01;35:bd=01;33:cd=01;33:ex=01;31"
 ```
+Reference:
+[Configuring the shell](https://formation-debian.viarezo.fr/shell.html)
 
 [Homebrew](https://brew.sh/), ofc
 
