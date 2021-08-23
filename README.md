@@ -36,3 +36,5 @@ subl
 ```
 ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 ```
+
+[nvbn/thefuck: Magnificent app which corrects your previous console command.](https://github.com/nvbn/thefuck)
