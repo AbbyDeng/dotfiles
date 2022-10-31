@@ -33,6 +33,7 @@ Reference:
 subl
 
 [Open Sublime Text from Terminal in macOS - Stack Overflow](https://stackoverflow.com/questions/16199581/open-sublime-text-from-terminal-in-macos)
+kill all sublime instances (check Activity Monitor)
 ```
 ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 ```
