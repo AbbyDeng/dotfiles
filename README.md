@@ -39,3 +39,5 @@ ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local
 ```
 
 [nvbn/thefuck: Magnificent app which corrects your previous console command.](https://github.com/nvbn/thefuck)
+
+[atuinsh/atuin: ✨ Magical shell history](https://github.com/atuinsh/atuin)
