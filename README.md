@@ -41,3 +41,5 @@ ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local
 [atuinsh/atuin: ✨ Magical shell history](https://github.com/atuinsh/atuin)
 
 [jonmosco/kube-ps1: Kubernetes prompt info for bash and zsh](https://github.com/jonmosco/kube-ps1)
+
+[sindresorhus/iterm2-snazzy: Elegant iTerm2 theme with bright colors](https://github.com/sindresorhus/iterm2-snazzy)
